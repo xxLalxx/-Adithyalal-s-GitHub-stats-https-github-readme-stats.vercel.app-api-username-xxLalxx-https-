@@ -1,8 +1,8 @@
-### Hey 👋, I'm xxLalxx
+### Hey 👋, I'm Adithyalal
 
 [![Github](https://img.shields.io/github/followers/xxLalxx?label=Follow&style=social)](https://github.com/xxLalxx)
 
-I'm a Robotics master's student passionate about solving complicated problems and creating software solutions :robot:. I :heart: Open Source and therefore enjoy working on interesting open-source projects.
+I'm a Lal a BTech fresher and trying to upskill myself.
 
 <!-- Light Mode -->
 <div align="center"> 
