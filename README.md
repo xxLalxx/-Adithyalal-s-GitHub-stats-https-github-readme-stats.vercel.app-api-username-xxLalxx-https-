@@ -69,9 +69,4 @@ I'm a Lal a BTech fresher and trying to upskill myself.
 &nbsp;
 
 </a>
-<!-- Dark Mode -->
-<a href="https://app.ens.domains/xxLalxx.eth#gh-dark-mode-only">
-<img src="https://img.shields.io/badge/xxLalxx.eth-ffffff?style=for-the-badge&logo=ethereum&logoColor=black#gh-dark-mode-only" alt="ENS Profile">
-</a>
 
-</div>
