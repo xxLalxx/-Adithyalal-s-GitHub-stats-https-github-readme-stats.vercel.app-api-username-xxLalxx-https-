@@ -67,10 +67,7 @@ I'm a Lal a BTech fresher and trying to upskill myself.
 <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only" alt="Connect with me on LinkedIn">
 </a>
 &nbsp;
-<!-- Social button 5 -->
-<!-- Light Mode -->
-<a href="https://app.ens.domains/xxLalxx.eth#gh-light-mode-only">
-<img src="https://img.shields.io/badge/xxLalxx.eth-3572A5?style=for-the-badge&logo=ethereum&logoColor=white#gh-light-mode-only" alt="ENS Profile">
+
 </a>
 <!-- Dark Mode -->
 <a href="https://app.ens.domains/xxLalxx.eth#gh-dark-mode-only">
