@@ -3,6 +3,7 @@
 [![Github](https://img.shields.io/github/followers/xxLalxx?label=Follow&style=social)](https://github.com/xxLalxx)
 
 I'm a Lal a BTech fresher and trying to upskill myself.
+NOTE: "THERE IS STILL UPDATES THAT NEED TO BE DONE ON MY SOCIALS BUTTONS"
 
 <!-- Light Mode -->
 <div align="center"> 
